@@ -1,0 +1,8 @@
+E:\计算机基础\大二项目\1677EFapi\Model\bin\Debug\netcoreapp2.1\Model.deps.json
+E:\计算机基础\大二项目\1677EFapi\Model\bin\Debug\netcoreapp2.1\Model.dll
+E:\计算机基础\大二项目\1677EFapi\Model\bin\Debug\netcoreapp2.1\Model.pdb
+E:\计算机基础\大二项目\1677EFapi\Model\obj\Debug\netcoreapp2.1\Model.csproj.CoreCompileInputs.cache
+E:\计算机基础\大二项目\1677EFapi\Model\obj\Debug\netcoreapp2.1\Model.AssemblyInfoInputs.cache
+E:\计算机基础\大二项目\1677EFapi\Model\obj\Debug\netcoreapp2.1\Model.AssemblyInfo.cs
+E:\计算机基础\大二项目\1677EFapi\Model\obj\Debug\netcoreapp2.1\Model.dll
+E:\计算机基础\大二项目\1677EFapi\Model\obj\Debug\netcoreapp2.1\Model.pdb
