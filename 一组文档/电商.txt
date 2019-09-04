@@ -1,0 +1,84 @@
+主表:
+主键id（int）、商品名称（varchar）、市场价格（varchar）、会员价格（decimal）、销量（int）、
+剩余库存量（int）、品牌（varchar）、店铺Id.所提供服务（varchar）、图片（varchar）、商品详情（varchar） 
+,店铺类型(旗舰店还是会员店)   创建时间
+
+活动:
+主键id（int）、标题名称(varchar)、出发地(varchar)、联系人(varchar),联系方式(varchar)、活动天数(int)、
+集合地点（旅游地点）(varchar)、报名时间截止(datetime)、出行日期（出发日期）(datetime)、已报名名额(int)、
+总名额(int)、简介(varchar)、行程详情(varchar)、价格(varchar)
+
+游客报名表 ：
+id 景点名称 ，景点信息  ，用户Id ，金额/积分  交易状态Id
+
+积分表：
+主键id（int）、标题名称（varchar）、原市场价格(varchar)、所需积分（varchar）、销量（int）
+库存量（int）、店铺Id、服务（varchar） 图片Id  详情id   创建时间
+
+我的积分
+id 总积分数  时间   状态  支出/支入分数  用户id
+
+我的余额
+id 总积余额  时间   状态  支出/支入余额 用户id
+
+试用表：
+主键id（int）、商品名称（varchar）、市场价格（varchar）、会员价格（decimal）、限购数量（int）
+、积分限制（int）、物品类别Id（varchar）,图片Id,到期时间,商品详情（varchar）.商品简介  创建时间
+
+申请表：
+id 商品名称 ，商品类型 ，商品数量 ，商品店铺   交易状态Id 用户Id 
+
+租赁表：
+主键id（int）、商品名称（varchar）、押金（decimal）、租用费（decimal）、店铺Id
+、租用联系人（varchar）、租用联系电话（varchar）、备注(varchar)、其他信息（varchar）、商品详情  创建时间，图片Id（varchar）
+
+秒杀表:
+ 主键id 商品名称 市场价  秒杀价 限量  颜色  数量  店铺Id 开始事件  结束时间
+
+用户表:
+Id 昵称  , 真实姓名  性别,年龄,头像,地区,详细地址  余额 ,积分 , 身份  账号,密码
+
+
+订单表 ：
+id 商品名称 ，商品类型 ，商品数量 ，商品店铺 ，金额/积分  交易状态Id  用户Id 
+
+店铺表:
+Id   店铺名称  图片Id 店铺介绍 地理位置Id ，详细地址 ，法人 ， 法人身份证 银行账号
+
+资讯类型表 ：
+id   资讯类型  
+
+资讯表：
+id  资讯名称 资讯介绍 价格  图片 详细资讯介绍Id 
+
+详细资讯表；
+id  资讯表id 图片 详细资讯介绍 联系人  电话 
+
+购物表:
+ID  、主表ID  数量   用户ID
+
+收藏表:
+ID  、主表ID 用户ID
+
+图片表 : 
+ID URL  主数据ID
+类别表 :
+Id  类别名称  Pid
+地区表 :
+Id  名称   Pid  
+品牌表:
+Id 品牌名称  类别Id  
+价格表
+Id  价格    
+物品样式表
+Id  物品样式名称,Pid
+评价表：
+Id 评价内容  pid 
+商品详情表
+id   图片id 详情介绍 
+商品简介
+id   品牌 型号 产品重量
+热门搜索
+id name 类别id
+审批表 
+Id  审批id  审批人 状态id 意见 
