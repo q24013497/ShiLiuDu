@@ -24,6 +24,6 @@ namespace Model
         /// <summary>
         /// 用户Id
         /// </summary>
-        public int UserId { get; set; }
+        public int UserId { get; set; }///
     }
 }

@@ -688,31 +688,30 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\24013\\.nuget\\packages\\": {},
+    "C:\\Users\\luo   宁\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\十六度\\1677EFapi\\Model\\Model.csproj",
+      "projectUniqueName": "E:\\十六度\\77\\1677EFapi\\Model\\Model.csproj",
       "projectName": "Model",
-      "projectPath": "E:\\十六度\\1677EFapi\\Model\\Model.csproj",
-      "packagesPath": "C:\\Users\\24013\\.nuget\\packages\\",
-      "outputPath": "E:\\十六度\\1677EFapi\\Model\\obj\\",
+      "projectPath": "E:\\十六度\\77\\1677EFapi\\Model\\Model.csproj",
+      "packagesPath": "C:\\Users\\luo   宁\\.nuget\\packages\\",
+      "outputPath": "E:\\十六度\\77\\1677EFapi\\Model\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\24013\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\luo   宁\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.1.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Users\\24013\\Desktop\\附件\\包": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
