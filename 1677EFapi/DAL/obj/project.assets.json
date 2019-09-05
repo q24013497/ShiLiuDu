@@ -5504,11 +5504,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\计算机基础\\大二项目\\1677EFapi\\DAL\\DAL.csproj",
+      "projectUniqueName": "E:\\十六度\\1677EFapi\\DAL\\DAL.csproj",
       "projectName": "DAL",
-      "projectPath": "E:\\计算机基础\\大二项目\\1677EFapi\\DAL\\DAL.csproj",
+      "projectPath": "E:\\十六度\\1677EFapi\\DAL\\DAL.csproj",
       "packagesPath": "C:\\Users\\24013\\.nuget\\packages\\",
-      "outputPath": "E:\\计算机基础\\大二项目\\1677EFapi\\DAL\\obj\\",
+      "outputPath": "E:\\十六度\\1677EFapi\\DAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5528,8 +5528,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "E:\\计算机基础\\大二项目\\1677EFapi\\Model\\Model.csproj": {
-              "projectPath": "E:\\计算机基础\\大二项目\\1677EFapi\\Model\\Model.csproj"
+            "E:\\十六度\\1677EFapi\\Model\\Model.csproj": {
+              "projectPath": "E:\\十六度\\1677EFapi\\Model\\Model.csproj"
             }
           }
         }

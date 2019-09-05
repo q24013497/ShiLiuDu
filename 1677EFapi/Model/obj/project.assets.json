@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\计算机基础\\大二项目\\1677EFapi\\Model\\Model.csproj",
+      "projectUniqueName": "E:\\十六度\\1677EFapi\\Model\\Model.csproj",
       "projectName": "Model",
-      "projectPath": "E:\\计算机基础\\大二项目\\1677EFapi\\Model\\Model.csproj",
+      "projectPath": "E:\\十六度\\1677EFapi\\Model\\Model.csproj",
       "packagesPath": "C:\\Users\\24013\\.nuget\\packages\\",
-      "outputPath": "E:\\计算机基础\\大二项目\\1677EFapi\\Model\\obj\\",
+      "outputPath": "E:\\十六度\\1677EFapi\\Model\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
