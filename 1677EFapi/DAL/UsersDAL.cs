@@ -7,9 +7,9 @@ namespace DAL
     public class UsersDAL
     {
         DataContext db = new DataContext();
-        public List<Users> GetUser()
+        public List<UserInfo> GetUser()
         {
-            return db.UserModelset.ToList();
+            return db.us.ToList();
         }
     }
 }

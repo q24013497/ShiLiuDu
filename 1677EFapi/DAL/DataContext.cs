@@ -18,7 +18,7 @@ namespace DAL
         {
 
         }
-        public DbSet<Users> UserModelset { get; set; }
+        public DbSet<UserInfo> UserModelset { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {

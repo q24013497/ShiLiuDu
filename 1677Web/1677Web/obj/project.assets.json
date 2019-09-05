@@ -11838,23 +11838,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\24013\\.nuget\\packages\\": {},
+    "C:\\Users\\Administrator\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\计算机基础\\大二项目\\1677Web\\1677Web\\1677Web.csproj",
+      "projectUniqueName": "G:\\16度77\\MyTaobao\\1677Web\\1677Web\\1677Web.csproj",
       "projectName": "1677Web",
-      "projectPath": "E:\\计算机基础\\大二项目\\1677Web\\1677Web\\1677Web.csproj",
-      "packagesPath": "C:\\Users\\24013\\.nuget\\packages\\",
-      "outputPath": "E:\\计算机基础\\大二项目\\1677Web\\1677Web\\obj\\",
+      "projectPath": "G:\\16度77\\MyTaobao\\1677Web\\1677Web\\1677Web.csproj",
+      "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+      "outputPath": "G:\\16度77\\MyTaobao\\1677Web\\1677Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\24013\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -11862,7 +11862,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Users\\24013\\Desktop\\附件\\包": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
