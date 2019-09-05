@@ -10,3 +10,9 @@ E:\计算机基础\大二项目\1677EFapi\DAL\obj\Debug\netcoreapp2.1\DAL.csproj
 E:\计算机基础\大二项目\1677EFapi\DAL\obj\Debug\netcoreapp2.1\DAL.csproj.CopyComplete
 E:\计算机基础\大二项目\1677EFapi\DAL\obj\Debug\netcoreapp2.1\DAL.dll
 E:\计算机基础\大二项目\1677EFapi\DAL\obj\Debug\netcoreapp2.1\DAL.pdb
+G:\16度77\MyTaobao\1677EFapi\DAL\obj\Debug\netcoreapp2.1\DAL.csprojAssemblyReference.cache
+G:\16度77\MyTaobao\1677EFapi\DAL\obj\Debug\netcoreapp2.1\DAL.csproj.CoreCompileInputs.cache
+G:\16度77\MyTaobao\1677EFapi\DAL\obj\Debug\netcoreapp2.1\DAL.AssemblyInfoInputs.cache
+G:\16度77\MyTaobao\1677EFapi\DAL\obj\Debug\netcoreapp2.1\DAL.AssemblyInfo.cs
+G:\16度77\MyTaobao\1677EFapi\DAL\obj\Debug\netcoreapp2.1\DAL.dll
+G:\16度77\MyTaobao\1677EFapi\DAL\obj\Debug\netcoreapp2.1\DAL.pdb

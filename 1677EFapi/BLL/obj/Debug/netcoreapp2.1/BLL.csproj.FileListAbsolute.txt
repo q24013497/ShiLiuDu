@@ -12,3 +12,9 @@ E:\计算机基础\大二项目\1677EFapi\BLL\obj\Debug\netcoreapp2.1\BLL.Assemb
 E:\计算机基础\大二项目\1677EFapi\BLL\obj\Debug\netcoreapp2.1\BLL.csproj.CopyComplete
 E:\计算机基础\大二项目\1677EFapi\BLL\obj\Debug\netcoreapp2.1\BLL.dll
 E:\计算机基础\大二项目\1677EFapi\BLL\obj\Debug\netcoreapp2.1\BLL.pdb
+G:\16度77\MyTaobao\1677EFapi\BLL\obj\Debug\netcoreapp2.1\BLL.csprojAssemblyReference.cache
+G:\16度77\MyTaobao\1677EFapi\BLL\obj\Debug\netcoreapp2.1\BLL.csproj.CoreCompileInputs.cache
+G:\16度77\MyTaobao\1677EFapi\BLL\obj\Debug\netcoreapp2.1\BLL.AssemblyInfoInputs.cache
+G:\16度77\MyTaobao\1677EFapi\BLL\obj\Debug\netcoreapp2.1\BLL.AssemblyInfo.cs
+G:\16度77\MyTaobao\1677EFapi\BLL\obj\Debug\netcoreapp2.1\BLL.dll
+G:\16度77\MyTaobao\1677EFapi\BLL\obj\Debug\netcoreapp2.1\BLL.pdb

@@ -19,3 +19,11 @@ E:\计算机基础\大二项目\1677EFapi\1677EFapi\obj\Debug\netcoreapp2.1\1677
 E:\计算机基础\大二项目\1677EFapi\1677EFapi\obj\Debug\netcoreapp2.1\1677EFapi.csproj.CopyComplete
 E:\计算机基础\大二项目\1677EFapi\1677EFapi\obj\Debug\netcoreapp2.1\1677EFapi.dll
 E:\计算机基础\大二项目\1677EFapi\1677EFapi\obj\Debug\netcoreapp2.1\1677EFapi.pdb
+G:\16度77\MyTaobao\1677EFapi\1677EFapi\obj\Debug\netcoreapp2.1\1677EFapi.csprojAssemblyReference.cache
+G:\16度77\MyTaobao\1677EFapi\1677EFapi\obj\Debug\netcoreapp2.1\1677EFapi.csproj.CoreCompileInputs.cache
+G:\16度77\MyTaobao\1677EFapi\1677EFapi\obj\Debug\netcoreapp2.1\1677EFapi.RazorAssemblyInfo.cache
+G:\16度77\MyTaobao\1677EFapi\1677EFapi\obj\Debug\netcoreapp2.1\1677EFapi.RazorAssemblyInfo.cs
+G:\16度77\MyTaobao\1677EFapi\1677EFapi\obj\Debug\netcoreapp2.1\1677EFapi.AssemblyInfoInputs.cache
+G:\16度77\MyTaobao\1677EFapi\1677EFapi\obj\Debug\netcoreapp2.1\1677EFapi.AssemblyInfo.cs
+G:\16度77\MyTaobao\1677EFapi\1677EFapi\obj\Debug\netcoreapp2.1\1677EFapi.dll
+G:\16度77\MyTaobao\1677EFapi\1677EFapi\obj\Debug\netcoreapp2.1\1677EFapi.pdb

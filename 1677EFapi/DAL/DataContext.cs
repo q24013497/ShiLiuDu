@@ -17,9 +17,7 @@ namespace DAL
         public DataContext(DbContextOptions options) : base(options)
         {
 
-        }
-        public DbSet<Users> UserModelset { get; set; }
-
+        }      
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             if (!optionsBuilder.IsConfigured)

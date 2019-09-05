@@ -9,9 +9,6 @@ namespace BLL
     {
         UsersDAL dal = new UsersDAL();
 
-        public List<Users> GetUser()
-        {
-            return dal.GetUser();
-        }
+       
     }
 }
