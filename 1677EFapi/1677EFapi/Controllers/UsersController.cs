@@ -12,10 +12,11 @@ namespace _1677EFapi.Controllers
     [ApiController]
     public class UsersController : ControllerBase
     {
-        UsersBLL bll = new UsersBLL();
+        CollectBLL bll = new CollectBLL();
 
         [HttpGet]
-        public List<Users> GetUser()
+        public List<Collect> GetUser()
+
         {
             return bll.GetUser();
         }

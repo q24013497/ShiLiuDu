@@ -6,3 +6,12 @@ E:\计算机基础\大二项目\1677EFapi\Model\obj\Debug\netcoreapp2.1\Model.As
 E:\计算机基础\大二项目\1677EFapi\Model\obj\Debug\netcoreapp2.1\Model.AssemblyInfo.cs
 E:\计算机基础\大二项目\1677EFapi\Model\obj\Debug\netcoreapp2.1\Model.dll
 E:\计算机基础\大二项目\1677EFapi\Model\obj\Debug\netcoreapp2.1\Model.pdb
+E:\十六度\77Xmu\1677EFapi\Model\bin\Debug\netcoreapp2.1\Model.deps.json
+E:\十六度\77Xmu\1677EFapi\Model\bin\Debug\netcoreapp2.1\Model.dll
+E:\十六度\77Xmu\1677EFapi\Model\bin\Debug\netcoreapp2.1\Model.pdb
+E:\十六度\77Xmu\1677EFapi\Model\obj\Debug\netcoreapp2.1\Model.csprojAssemblyReference.cache
+E:\十六度\77Xmu\1677EFapi\Model\obj\Debug\netcoreapp2.1\Model.csproj.CoreCompileInputs.cache
+E:\十六度\77Xmu\1677EFapi\Model\obj\Debug\netcoreapp2.1\Model.AssemblyInfoInputs.cache
+E:\十六度\77Xmu\1677EFapi\Model\obj\Debug\netcoreapp2.1\Model.AssemblyInfo.cs
+E:\十六度\77Xmu\1677EFapi\Model\obj\Debug\netcoreapp2.1\Model.dll
+E:\十六度\77Xmu\1677EFapi\Model\obj\Debug\netcoreapp2.1\Model.pdb

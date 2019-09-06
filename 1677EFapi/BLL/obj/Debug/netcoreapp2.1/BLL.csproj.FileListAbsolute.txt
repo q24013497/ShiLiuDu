@@ -12,3 +12,17 @@ E:\计算机基础\大二项目\1677EFapi\BLL\obj\Debug\netcoreapp2.1\BLL.Assemb
 E:\计算机基础\大二项目\1677EFapi\BLL\obj\Debug\netcoreapp2.1\BLL.csproj.CopyComplete
 E:\计算机基础\大二项目\1677EFapi\BLL\obj\Debug\netcoreapp2.1\BLL.dll
 E:\计算机基础\大二项目\1677EFapi\BLL\obj\Debug\netcoreapp2.1\BLL.pdb
+E:\十六度\77Xmu\1677EFapi\BLL\bin\Debug\netcoreapp2.1\BLL.deps.json
+E:\十六度\77Xmu\1677EFapi\BLL\bin\Debug\netcoreapp2.1\BLL.dll
+E:\十六度\77Xmu\1677EFapi\BLL\bin\Debug\netcoreapp2.1\BLL.pdb
+E:\十六度\77Xmu\1677EFapi\BLL\bin\Debug\netcoreapp2.1\DAL.dll
+E:\十六度\77Xmu\1677EFapi\BLL\bin\Debug\netcoreapp2.1\Model.dll
+E:\十六度\77Xmu\1677EFapi\BLL\bin\Debug\netcoreapp2.1\DAL.pdb
+E:\十六度\77Xmu\1677EFapi\BLL\bin\Debug\netcoreapp2.1\Model.pdb
+E:\十六度\77Xmu\1677EFapi\BLL\obj\Debug\netcoreapp2.1\BLL.csprojAssemblyReference.cache
+E:\十六度\77Xmu\1677EFapi\BLL\obj\Debug\netcoreapp2.1\BLL.csproj.CoreCompileInputs.cache
+E:\十六度\77Xmu\1677EFapi\BLL\obj\Debug\netcoreapp2.1\BLL.AssemblyInfoInputs.cache
+E:\十六度\77Xmu\1677EFapi\BLL\obj\Debug\netcoreapp2.1\BLL.AssemblyInfo.cs
+E:\十六度\77Xmu\1677EFapi\BLL\obj\Debug\netcoreapp2.1\BLL.csproj.CopyComplete
+E:\十六度\77Xmu\1677EFapi\BLL\obj\Debug\netcoreapp2.1\BLL.dll
+E:\十六度\77Xmu\1677EFapi\BLL\obj\Debug\netcoreapp2.1\BLL.pdb
